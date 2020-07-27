@@ -6,5 +6,8 @@ Parameter K in K-mean algorightm defines how many colors should be used in order
 
 ## Examples
 
+### Example1. Moon
 
-
+| Clusters | 2 | 4 | 10 | 16 | 36 | Original |
+|----------|---|---|----|----|----|----------|
+| Result   |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.2.jpg" height="600px" width="400px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.4.jpg" height="600px" width="400px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.10.jpg" height="600px" width="400px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.16.jpg" height="600px" width="400px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.36.jpg" height="600px" width="400px" /> | <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.original.jpg" height="600px" width="400px" /> |
