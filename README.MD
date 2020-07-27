@@ -11,3 +11,10 @@ Parameter K in K-mean algorightm defines how many colors should be used in order
 | Clusters | 2 | 4 | 10 | 16 | 36 | Original |
 |----------|---|---|----|----|----|----------|
 | Result   |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.2.jpg" height="300px" width="200px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.4.jpg" height="300px" width="200px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.10.jpg" height="300px" width="200px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.16.jpg" height="300px" width="200px" /> |  <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.36.jpg" height="300px" width="200px" /> | <img src="https://raw.githubusercontent.com/roma-glushko/image-color-clustering/master/docs/image2/image2.original.jpg" height="300px" width="200px" /> |
+
+### Example2. Tibidabo Amusement Park, Spain
+
+| Clusters | 2 | 3 | 4 | 8 | 16 | Original |
+|----------|---|---|---|---|----|----------|
+| Result   | <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.2.jpg" height="300px" width="400px" /> | <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.3.jpg" height="300px" width="400px" /> | <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.4.jpg" height="300px" width="400px" /> | <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.8.jpg" height="300px" width="400px" />| <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.16.jpg" height="300px" width="400px" /> | <img src="https://github.com/roma-glushko/image-color-clustering/blob/master/docs/image6/image6.original.jpg" height="300px" width="400px" /> |
+
